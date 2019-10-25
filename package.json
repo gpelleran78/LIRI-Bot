@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpelleran78/LIRI-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpelleran78/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/gpelleran78/LIRI-Bot#readme"
+}
